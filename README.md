@@ -1,0 +1,2 @@
+# Wikibilim
+Kazakh wiki
